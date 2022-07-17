@@ -21,4 +21,5 @@ Youtube: https://www.youtube.com/watch?v=sxjjXvwz_gk
 - 게임 매니저
 - UI 매니저
 - 사운드 매니저
+- 웨이브 시스템
 - 프로젝트 병합 및 관리
