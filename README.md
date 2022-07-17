@@ -14,7 +14,7 @@
 
 Youtube: https://www.youtube.com/watch?v=sxjjXvwz_gk
 
-기여
+기여 (Script - 111_LSB)
 
 - 일반 몬스터
 - 네임드 몬스터
