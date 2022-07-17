@@ -14,6 +14,8 @@
 
 Youtube: https://www.youtube.com/watch?v=sxjjXvwz_gk
 
+기여
+
 - 일반 몬스터
 - 네임드 몬스터
 - 게임 매니저
