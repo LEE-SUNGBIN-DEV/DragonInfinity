@@ -12,8 +12,6 @@ Period: 2022. 04. 18 ~ 2022. 04. 29
 
 Creators: 이성빈, 윤재학, 한승호, 김춘호
 
-Video: https://www.youtube.com/watch?v=sxjjXvwz_gk
-
 Contribution (Folder: Assets/111_LSB)
 
 - 일반 몬스터
